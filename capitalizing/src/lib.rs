@@ -1,9 +1,8 @@
 pub fn capitalize_first(input: &str) -> String {
-    let mut output = input.to_string();
-    match output.get_mut(0..1).map(|v| v.make_ascii_uppercase()) {
-        Some(_) => output,
-        None => String::new()
+    if input.is_empty() {
+        return input.to_string();
     }
+    input[0..1].to_uppercase() + &input[1..]
 }
 
 pub fn title_case(input: &str) -> String {
@@ -13,14 +12,11 @@ pub fn title_case(input: &str) -> String {
 }
 
 pub fn change_case(input: &str) -> String {
-    let mut a = String::new();
-
-    for c in input.chars() {
-        if c.is_ascii_lowercase() {
-            a.push(c.to_ascii_uppercase());
+    input.chars().map(|c| {
+        if c.is_uppercase() {
+            c.to_lowercase().next().unwrap()
         } else {
-            a.push(c.to_ascii_lowercase());
+            c.to_uppercase().next().unwrap()
         }
-    };
-    a
+    }).collect()
 }

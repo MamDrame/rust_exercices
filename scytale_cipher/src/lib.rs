@@ -22,3 +22,18 @@ pub fn scytale_cipher(message: String, i: u32) -> String {
 
     output.trim().to_string()
 }
+/* Other Solution
+pub fn scytale_cipher(message: String, wraps: u32) -> String {
+    let padded_message = format!(
+        "{:<width$}",
+        message,
+        width = (message.len() as f32 / wraps as f32).ceil() as usize * wraps as usize
+    );
+    (0..wraps)
+        .flat_map(|j| padded_message.chars().skip(j as usize).step_by(wraps as usize))
+        .collect::<String>()
+        .trim()
+        .to_string()
+}
+
+ */

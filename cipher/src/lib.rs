@@ -56,3 +56,38 @@ pub fn cipher(original: &str, ciphered: &str) -> Option<Result<bool, CipherError
         return Some(Err(CipherError::new(false, expected)));
     }
 }
+
+
+/*Other Solution
+#[derive(Debug, Clone, Eq, PartialEq)]
+pub struct CipherError {
+    pub validation: bool,
+    pub expected: String,
+}
+impl CipherError {
+    pub fn new(validation: bool, expected: String) -> CipherError {
+        CipherError {
+            validation,
+            expected,
+        }
+    }
+}
+pub fn cipher(original: &str, ciphered: &str) -> Option<Result<bool, CipherError>> {
+    if original.is_empty() || ciphered.is_empty() {
+        return None;
+    }
+    let expected = original
+        .chars()
+        .map(|x| match x {
+            'a'..='z' => (b'z' - (x as u8 - b'a')) as char,
+            'A'..='Z' => (b'Z' - (x as u8 - b'A')) as char,
+            _ => x,
+        })
+        .collect::<String>();
+    match expected == ciphered {
+        true => Some(Ok(true)),
+        _ => Some(Err(CipherError::new(false, expected))),
+    }
+}
+
+ */

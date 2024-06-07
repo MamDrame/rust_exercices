@@ -42,6 +42,7 @@
       <sourceFolder url="file://$MODULE_DIR$/scytale_cipher/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/spelling/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/talking/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/count-factorial-steps/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/bigger/target" />
       <excludeFolder url="file://$MODULE_DIR$/blood_types/target" />
       <excludeFolder url="file://$MODULE_DIR$/blood_types_s/target" />
@@ -82,6 +83,7 @@
       <excludeFolder url="file://$MODULE_DIR$/scytale_cipher/target" />
       <excludeFolder url="file://$MODULE_DIR$/spelling/target" />
       <excludeFolder url="file://$MODULE_DIR$/talking/target" />
+      <excludeFolder url="file://$MODULE_DIR$/count-factorial-steps/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

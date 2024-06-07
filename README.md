@@ -31,18 +31,18 @@ programming language.
 2. Nextprime
 3. reverse_it
 ### Level 2
-1. find_factorial
-2. Fibonacci2
-3. copy
+1. count-factorial-steps
+2. lucas-number
+3. own-and-return
 4. Matrix_determinant
 ### Level 3
-1. profanity_fitter
-2. question_mark
-3. talking
+1. check-user-name
+2. get-document-id
+3. dress-code
 ### Level 4
 1. Rot21
 2. order_books
-3. Cipher
+3. prime-checker
 ### Level 5
 1. Queens
 2. Scytale_cipher
@@ -59,25 +59,25 @@ programming language.
 5. nextprime
 6. reverse_it
 ### Level 2
-1. profanity_filter
-2. question_mark
-3. talking
+1. check-user-name
+2. get-document-id
+3. dress-code
 ### Level 3
-1. spelling
-2. rpn 
+1. negative-spelling
+2. rpm
 3. queens 
 4. scytale_cipher
 ### Level 4
-1. roman_numbers 
+1. office-worker 
 2. matrix_display 
-3. generics_list
+3. organize-garage
 ### Level 5
-1. box recursion 
-2. commits _stats 
+1. moving-targets 
+2. format-me
 3. blood_type_s
 ### Level 6
-1. ref-cell 
-2. drop_the_thread 
+1. car-rental 
+2. drop-the-blog
 3. lunch_queue
 
 ---

@@ -11,19 +11,17 @@ pub fn count_factorial_steps(factorial: u64) -> u64 {
     if factorial == 0 || factorial == 1 {
         return 0;
     }
-
-    let mut n = factorial;
+    let mut remainder = factorial;
     let mut step = 1;
-    let mut i = 2;
-
-    while n > 1 {
-        if n % i != 0 {
+    let mut divisor = 2;
+    while remainder > 1 {
+        // Vérifie si 'remainder' est divisible par tous les nombres à partir de 2 jusqu'à 'divisor'
+        if remainder % divisor != 0 {
             return 0;
         }
-        n /= i;
+        remainder /= divisor;
         step += 1;
-        i += 1;
+        divisor += 1;
     }
-
-  step
+    step
 }

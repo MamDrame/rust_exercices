@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/bigger/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/blood_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/blood_types_s/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/box_recursion/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/brackets_matching/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/brain_fuck/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/capitalizing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cipher/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/commits_stats/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/copy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/counting_words/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/display_table/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/division_and_remainder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/drop_the_thread/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fibonacci2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/filter_table/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/find_factorial/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flat_tree/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generics_list/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/insertion_sort/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/inv_pyramid/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lunch_queue/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/matrix_determinant/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/matrix_display/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/matrix_transposition/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nextprime/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/order_books/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/partial_sums/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/previousprime/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/profanity_filter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/queens/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/question_mark/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reverse_it/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/road_intersection/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/roman_numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rot21/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rpn/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scytale_cipher/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spelling/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/talking/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/bigger/target" />
+      <excludeFolder url="file://$MODULE_DIR$/blood_types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/blood_types_s/target" />
+      <excludeFolder url="file://$MODULE_DIR$/box_recursion/target" />
+      <excludeFolder url="file://$MODULE_DIR$/brackets_matching/target" />
+      <excludeFolder url="file://$MODULE_DIR$/brain_fuck/target" />
+      <excludeFolder url="file://$MODULE_DIR$/capitalizing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/cipher/target" />
+      <excludeFolder url="file://$MODULE_DIR$/commits_stats/target" />
+      <excludeFolder url="file://$MODULE_DIR$/copy/target" />
+      <excludeFolder url="file://$MODULE_DIR$/counting_words/target" />
+      <excludeFolder url="file://$MODULE_DIR$/display_table/target" />
+      <excludeFolder url="file://$MODULE_DIR$/division_and_remainder/target" />
+      <excludeFolder url="file://$MODULE_DIR$/drop_the_thread/target" />
+      <excludeFolder url="file://$MODULE_DIR$/fibonacci2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/filter_table/target" />
+      <excludeFolder url="file://$MODULE_DIR$/find_factorial/target" />
+      <excludeFolder url="file://$MODULE_DIR$/flat_tree/target" />
+      <excludeFolder url="file://$MODULE_DIR$/generics_list/target" />
+      <excludeFolder url="file://$MODULE_DIR$/insertion_sort/target" />
+      <excludeFolder url="file://$MODULE_DIR$/inv_pyramid/target" />
+      <excludeFolder url="file://$MODULE_DIR$/lunch_queue/target" />
+      <excludeFolder url="file://$MODULE_DIR$/matrix_determinant/target" />
+      <excludeFolder url="file://$MODULE_DIR$/matrix_display/target" />
+      <excludeFolder url="file://$MODULE_DIR$/matrix_transposition/target" />
+      <excludeFolder url="file://$MODULE_DIR$/nextprime/target" />
+      <excludeFolder url="file://$MODULE_DIR$/order_books/target" />
+      <excludeFolder url="file://$MODULE_DIR$/partial_sums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/previousprime/target" />
+      <excludeFolder url="file://$MODULE_DIR$/profanity_filter/target" />
+      <excludeFolder url="file://$MODULE_DIR$/queens/target" />
+      <excludeFolder url="file://$MODULE_DIR$/question_mark/target" />
+      <excludeFolder url="file://$MODULE_DIR$/reverse_it/target" />
+      <excludeFolder url="file://$MODULE_DIR$/road_intersection/target" />
+      <excludeFolder url="file://$MODULE_DIR$/roman_numbers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rot21/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rpn/target" />
+      <excludeFolder url="file://$MODULE_DIR$/scytale_cipher/target" />
+      <excludeFolder url="file://$MODULE_DIR$/spelling/target" />
+      <excludeFolder url="file://$MODULE_DIR$/talking/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

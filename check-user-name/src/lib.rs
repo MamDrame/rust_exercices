@@ -43,6 +43,6 @@ impl User {
 pub fn check_user_name(user: &User) -> (bool, &str) {
     match user.send_name() {
         Some(name) => (true, name),
-        None => (false, "Error: User is guest"),
+        None => (false, "ERROR: User is guest"),
     }
 }

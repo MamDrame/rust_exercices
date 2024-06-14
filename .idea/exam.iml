@@ -51,6 +51,7 @@
       <sourceFolder url="file://$MODULE_DIR$/own-and-return/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/prime-checker/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/scytale-decoder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/car_rental/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/format_me/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/moving_targets/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/office_worker/src" isTestSource="false" />
@@ -104,6 +105,7 @@
       <excludeFolder url="file://$MODULE_DIR$/own-and-return/target" />
       <excludeFolder url="file://$MODULE_DIR$/prime-checker/target" />
       <excludeFolder url="file://$MODULE_DIR$/scytale-decoder/target" />
+      <excludeFolder url="file://$MODULE_DIR$/car_rental/target" />
       <excludeFolder url="file://$MODULE_DIR$/format_me/target" />
       <excludeFolder url="file://$MODULE_DIR$/moving_targets/target" />
       <excludeFolder url="file://$MODULE_DIR$/office_worker/target" />

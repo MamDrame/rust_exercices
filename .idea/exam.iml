@@ -58,6 +58,7 @@
       <sourceFolder url="file://$MODULE_DIR$/moving_targets/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/office_worker/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/organize_garage/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/smallest/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/bigger/target" />
       <excludeFolder url="file://$MODULE_DIR$/blood_types/target" />
       <excludeFolder url="file://$MODULE_DIR$/blood_types_s/target" />
@@ -114,6 +115,7 @@
       <excludeFolder url="file://$MODULE_DIR$/moving_targets/target" />
       <excludeFolder url="file://$MODULE_DIR$/office_worker/target" />
       <excludeFolder url="file://$MODULE_DIR$/organize_garage/target" />
+      <excludeFolder url="file://$MODULE_DIR$/smallest/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -25,7 +25,7 @@ impl Queue {
         self.node = new_node;
     }
     pub fn invert_queue(&mut self) {
-        let mut a: Vec<Person> = self.unroll_queue();
+        let a: Vec<Person> = self.unroll_queue();
         let mut new_node = Self::new();
         for person in a {
             new_node.add(person.name, person.discount)

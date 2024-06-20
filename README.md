@@ -122,14 +122,14 @@ programming language.
 ### Level 2
 
 1. smallest
-2. modify-letter
-3. reverse-it
+2. modify_letter
+3. reverse_it
 4. counting-words
 
 ### Level 3
 
 1. profanity_filter
-2. prime-checker
+2. prime_checker
 3. partial_sums
 4. inv_pyramid
 5. previousprime

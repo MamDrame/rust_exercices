@@ -49,8 +49,6 @@
       <sourceFolder url="file://$MODULE_DIR$/lucas-number/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/negative-spelling/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/own-and-return/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/prime-checker/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/scytale-decoder/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/car_rental/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/drop_the_blog/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/format_me/src" isTestSource="false" />
@@ -59,6 +57,10 @@
       <sourceFolder url="file://$MODULE_DIR$/office_worker/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/organize_garage/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/smallest/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/matrix_multiplication/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modify_letter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/prime_checker/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scytale_decoder/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/bigger/target" />
       <excludeFolder url="file://$MODULE_DIR$/blood_types/target" />
       <excludeFolder url="file://$MODULE_DIR$/blood_types_s/target" />
@@ -106,8 +108,6 @@
       <excludeFolder url="file://$MODULE_DIR$/lucas-number/target" />
       <excludeFolder url="file://$MODULE_DIR$/negative-spelling/target" />
       <excludeFolder url="file://$MODULE_DIR$/own-and-return/target" />
-      <excludeFolder url="file://$MODULE_DIR$/prime-checker/target" />
-      <excludeFolder url="file://$MODULE_DIR$/scytale-decoder/target" />
       <excludeFolder url="file://$MODULE_DIR$/car_rental/target" />
       <excludeFolder url="file://$MODULE_DIR$/drop_the_blog/target" />
       <excludeFolder url="file://$MODULE_DIR$/format_me/target" />
@@ -116,6 +116,10 @@
       <excludeFolder url="file://$MODULE_DIR$/office_worker/target" />
       <excludeFolder url="file://$MODULE_DIR$/organize_garage/target" />
       <excludeFolder url="file://$MODULE_DIR$/smallest/target" />
+      <excludeFolder url="file://$MODULE_DIR$/matrix_multiplication/target" />
+      <excludeFolder url="file://$MODULE_DIR$/modify_letter/target" />
+      <excludeFolder url="file://$MODULE_DIR$/prime_checker/target" />
+      <excludeFolder url="file://$MODULE_DIR$/scytale_decoder/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

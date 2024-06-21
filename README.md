@@ -124,7 +124,7 @@ programming language.
 1. smallest
 2. modify_letter
 3. reverse_it
-4. counting-words
+4. counting_words
 
 ### Level 3
 

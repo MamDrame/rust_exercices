@@ -22,12 +22,11 @@ impl Table {
     {
         let mut table = Table::new();
         let col_to_filter = self.headers.iter().map(|v| v.as_str()).position(filter);
-        
 
         match col_to_filter {
             Some(value) => {
                 table.headers = vec![self.headers.clone()[value].clone()];
-             
+
                 for row_step in 0..self.body.len() {
                     let value = &self.body.clone()[row_step][value];
                     table.add_row(&[value.to_string()]);

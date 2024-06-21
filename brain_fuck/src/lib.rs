@@ -1,11 +1,5 @@
-use std::env;
-use std::io::{self, Write};
-
-fn main() {
-    let args: Vec<String> = std::env::args().collect();
-
-    brain_fuck(&args[1]);
-}
+use std::io;
+use std::io::Write;
 
 pub fn brain_fuck(code: &str) {
     const MEMORY_SIZE: usize = 2048;
